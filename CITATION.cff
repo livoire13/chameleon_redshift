@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: chameleon_redshift
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hugo
+    family-names: Lévy
+    email: hugo.levy@iap.fr
+    orcid: 'https://orcid.org/0000-0002-3904-0646'
+repository-code: 'https://github.com/livoire13/chameleon_redshift'
+repository: 'https://github.com/onera/femtoscope'
+abstract: >-
+  Python codes accompanying the article "Testing screened
+  scalar-tensor theories of gravity with atomic clocks" by
+  Hugo Lévy (author of the code) and Jean-Philippe Uzan. To
+  run the scripts, the femtoscope package must be installed.
+license: MIT
+commit: cdff73f
+version: '1.0'
+date-released: '2025-02-10'
