@@ -1,6 +1,3 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: chameleon_redshift
 message: >-
@@ -12,6 +9,9 @@ authors:
     family-names: Lévy
     email: hugo.levy@iap.fr
     orcid: 'https://orcid.org/0000-0002-3904-0646'
+identifiers:
+  - type: url
+    value: 'https://doi.org/10.5281/zenodo.14846919'
 repository-code: 'https://github.com/livoire13/chameleon_redshift'
 repository: 'https://github.com/onera/femtoscope'
 abstract: >-
